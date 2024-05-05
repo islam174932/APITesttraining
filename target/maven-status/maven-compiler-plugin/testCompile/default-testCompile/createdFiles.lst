@@ -1,0 +1,5 @@
+spotify\CreatePlaylist.class
+spotify\TokenManager.class
+spotify\utils\ConfigLoader.class
+spotify\utils\PropertyUtils.class
+spotify\BaseTest.class

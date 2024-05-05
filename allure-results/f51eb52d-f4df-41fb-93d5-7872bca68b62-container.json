@@ -1,0 +1,1 @@
+{"uuid":"f51eb52d-f4df-41fb-93d5-7872bca68b62","name":"spotify.BaseTest.setUp","children":["99b6fb91-1ad1-48f9-8eed-a69be7d1641d"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1714909018694,"stop":1714909018696}],"afters":[],"start":1714909018694,"stop":1714909018696}
